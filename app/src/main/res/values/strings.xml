@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_image">Quiz Image</string>
+    <string name="better_luck_next_time">Better Luck Next Time</string>
+</resources>
